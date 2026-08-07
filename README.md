@@ -252,3 +252,11 @@ npm run build
 ```
 
 To add unit or component tests, wire **Vitest** (or Jest) in `frontend/` and extend `package.json` with a `test` script; the README can then be updated with `npm test`.
+
+## Status
+
+v0.1.1 — active development (backlog voting + JWT auth).
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for this project’s 3-year track (comments, notifications, orgs/SSO).
